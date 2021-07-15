@@ -1,0 +1,16 @@
+powermanager\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+powermanager\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+powermanager\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+powermanager\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+powermanager\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+powermanager\tasks.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+powermanager\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+powermanager\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+powermanager\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+powermanager\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+powermanager\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+powermanager\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+powermanager\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+powermanager\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+powermanager\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+powermanager\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h

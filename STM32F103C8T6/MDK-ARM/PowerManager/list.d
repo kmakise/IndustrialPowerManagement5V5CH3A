@@ -1,0 +1,12 @@
+powermanager\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+powermanager\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+powermanager\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+powermanager\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+powermanager\list.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+powermanager\list.o: ../Core/Inc/FreeRTOSConfig.h
+powermanager\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+powermanager\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+powermanager\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+powermanager\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+powermanager\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+powermanager\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
